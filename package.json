@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lokesh-coder/sr-bump-file/issues"
   },
-  "homepage": "https://github.com/lokesh-coder/sr-bump-file#readme"
+  "homepage": "https://github.com/lokesh-coder/sr-bump-file#readme",
+  "devDependencies": {
+    "bump-version": "^0.5.0"
+  }
 }
